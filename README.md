@@ -1,5 +1,3 @@
-# Data-Analyst-Nanodegree
-Data Analyst Nanodegree
 # Udacity Data Analyst Nanodegree
 This is a project work I did for the Udacity Data Analyst Nanodegree
 In this Nanodegree Program we're using Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions.
